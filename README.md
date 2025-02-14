@@ -44,29 +44,3 @@ HTTP Request Host: example.com
 ## 🧑‍💻 Author
 - **Tanushka Bhatnagar** - PDEU College
 
-## ⚠️ License
-This project is licensed under the MIT License.
-
----
-
-## ✅ How to Upload to GitHub
-### **1. Create a Private Repository**
-- Go to [GitHub](https://github.com/) and create a new repository (`packet-sniffer`), mark it **private**.
-
-### **2. Push Project to GitHub**
-```bash
-git init
-git remote add origin https://github.com/yourusername/packet-sniffer.git
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git push -u origin main
-```
-
-### **3. Get Repository Link**
-- Copy the URL from GitHub: `https://github.com/yourusername/packet-sniffer`
-
-### **4. Share Securely**
-- Invite collaborators from **Settings > Collaborators** (Read-only permissions for others).
-
-Happy Coding! 😊
